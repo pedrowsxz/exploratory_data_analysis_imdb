@@ -1,6 +1,6 @@
 # Movie Analytics & Predictive Modeling
 
-This project is part of a business and data science challenge.  
+This project is part of a business and data science project.  
 It focuses on **exploratory data analysis (EDA)**, **predictive modeling**, and **statistical reasoning** to understand the factors driving movie success and IMDb ratings.  
 
 ---
